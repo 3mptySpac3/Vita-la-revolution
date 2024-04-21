@@ -60,3 +60,48 @@ Special shoutouts to the incredible team members who made this project possible:
 - [**Nicholas Gonzalez**](https://github.com/nicoatsait) 
 - [**Jaclyn Burry**](https://www.linkedin.com/in/jai-burry-a3039222b/) 
 - [**Jean-Pierre Nde-Forgwang**](https://www.linkedin.com/in/jean-pierre-n/) 
+
+
+## App Screenshots
+
+<p align="center">
+  <img src="Pictures/1.PNG" alt="Screenshot 1" width="200"/>
+  <img src="Pictures/2.PNG" alt="Screenshot 2" width="200"/>
+  <img src="Pictures/3.PNG" alt="Screenshot 3" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/4.PNG" alt="Screenshot 4" width="200"/>
+  <img src="Pictures/5.PNG" alt="Screenshot 5" width="200"/>
+  <img src="Pictures/6.PNG" alt="Screenshot 6" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/7.PNG" alt="Screenshot 4" width="200"/>
+  <img src="Pictures/8.PNG" alt="Screenshot 5" width="200"/>
+  <img src="Pictures/9.PNG" alt="Screenshot 6" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/10.PNG" alt="Screenshot 4" width="200"/>
+  <img src="Pictures/11.PNG" alt="Screenshot 5" width="200"/>
+  <img src="Pictures/12.PNG" alt="Screenshot 6" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/13.PNG" alt="Screenshot 4" width="200"/>
+  <img src="Pictures/14.PNG" alt="Screenshot 5" width="200"/>
+  <img src="Pictures/15.PNG" alt="Screenshot 6" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/16.PNG" alt="Screenshot 4" width="200"/>
+  <img src="Pictures/17.PNG" alt="Screenshot 5" width="200"/>
+  <img src="Pictures/18.PNG" alt="Screenshot 6" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/19.PNG" alt="Screenshot 4" width="200"/>
+  <img src="Pictures/20.PNG" alt="Screenshot 5" width="200"/>
+  <img src="Pictures/12.PNG" alt="Screenshot 6" width="200"/>
+</p>
+<p align="center">
+  <img src="Pictures/24.PNG" alt="Screenshot 4" width="200"/>
+</p>
+<p align="center">
+  <!-- Continue adding rows as needed -->
+</p>
