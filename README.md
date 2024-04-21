@@ -59,7 +59,7 @@ Special shoutouts to the incredible team members who made this project possible:
 - [**Jonah Scott**](https://github.com/jonahscott) 
 - [**Nicholas Gonzalez**](https://github.com/nicoatsait) 
 - [**Jaclyn Burry**](https://www.linkedin.com/in/jai-burry-a3039222b/) 
-- [**Jean-Pierre Nde-Forgwang**](https://www.linkedin.com/in/jean-pierre-n/) 
+- [**Jean-Pierre Nde-Forgwang**](https://www.linkedin.com/in/jean-pierre-n/) ~*me*
 
 
 ## App Screenshots
