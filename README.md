@@ -1,6 +1,6 @@
 # [Vita-la-revolution](https://drive.google.com/file/d/1LSAfVDiMjuTC3RUIxTzwb5kZKV1oGqKA/view?usp=sharing) ⚔️
 
-> Click on the image below to watch the video 🎥👇
+> Click on the image below to watch the video 🎥👇🏾
 >
 > [![Vita-la-revolution](https://github.com/3mptySpac3/Vita-la-revolution/blob/main/CapstoneThumbnail.jpg?raw=true)](https://drive.google.com/file/d/1LSAfVDiMjuTC3RUIxTzwb5kZKV1oGqKA/view?usp=sharing)
 
