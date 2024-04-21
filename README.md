@@ -48,3 +48,15 @@ Welcome to **Vita-la-revolution**, a capstone project dedicated to developing a 
 The ultimate goal of our app is to facilitate ongoing health management, making it more accessible and straightforward, particularly for the elderly and monitoring of children. This functionality supports better communication with healthcare providers and fosters a proactive approach to health maintenance.
 
 Revolutionizing How You Manage You and Your Loved One's Health! 🚀
+
+## 🌟 Contributors
+
+Special shoutouts to the incredible team members who made this project possible:
+
+[Project Vita](https://github.com/Valentine-Jingwa/Vita)
+---
+- [**Valentine Jingwa**](https://www.linkedin.com/in/valentine-achalefi-jingwa-12607b252/) 
+- [**Jonah Scott**](https://github.com/jonahscott) 
+- [**Nicholas Gonzalez**](https://github.com/nicoatsait) 
+- [**Jaclyn Burry**](https://www.linkedin.com/in/jai-burry-a3039222b/) 
+- [**Jean-Pierre Nde-Forgwang**](https://www.linkedin.com/in/jean-pierre-n/) 
